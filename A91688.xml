@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the agitators of the army, concerning the prosecution of their late remonstrance and protestation against the sitting of the late usurpers of Parliamentary power in the Parliament. With the reasons constraining them so resolutely to adhere to that their protestation. As they presented to his Excellency Sir Thomas Fairfax Septemb. 2. 1647.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91688</idno><idno type="EEBO-CITATION">99862380</idno>
+  <idno type="VID">160479</idno>
+  <idno type="EEBO-PROQUEST">2240894869</idno>
+  
+            <idno type="STC">Wing R1143</idno>
+            <idno type="STC">Thomason E405_22</idno>
+            <idno type="STC">ESTC R201894</idno>
+            <idno type="PROQUEST">99862380</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862380e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160479)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the agitators of the army, concerning the prosecution of their late remonstrance and protestation against the sitting of the late usurpers of Parliamentary power in the Parliament. With the reasons constraining them so resolutely to adhere to that their protestation. As they presented to his Excellency Sir Thomas Fairfax Septemb. 2. 1647.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Harris,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber: [i.e. September] 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160479:1"/>
+            <p>THE RESOLVTION of the AGITATORS of the ARMY, Concerning the prosecution of their late Remonstrance and Protestation against the sitting of the late Usurpers of Parliame<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tary power in the Parliament.</p>
+            <p>With the Reasons constraining them so resolutely to adhere to that their Protestation.</p>
+            <p>As they presented to his Excellency Sir Thomas Fairfax <add>7<seg rend="sup">ber</seg> 4<seg rend="sup">th</seg>
+               </add>
+               <hi>Septemb.</hi> 2. 1647.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Harris,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:160479:2"/>
+            <pb n="3" facs="tcp:160479:2"/>
+            <head>THE RESOLVTION of the AGITATORS of the ARMY.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the insolency of the City and the treacherous complot<g ref="char:EOLhyphen"/>ments of many persons formerly Members of Parliament, was after an unheard of horrid man<g ref="char:EOLhyphen"/>ner forced, and for security of their own lives constrained to fly for refuge to their Army; and for as much as your Excellency with your Ar<g ref="char:EOLhyphen"/>my have ingaged both to the Parliament and Kingdom to use their utmost endeavours to re<g ref="char:EOLhyphen"/>instate them in their just power and freedome,
+<pb n="4" facs="tcp:160479:3"/> and have been necessitated to declare and protest against the sitting of all those in Parliament, who lately usur<g ref="char:EOLhyphen"/>ped the Parliamentary power for the better prosecuti<g ref="char:EOLhyphen"/>on <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f their bloody intentions, and by their present in<g ref="char:EOLhyphen"/>trusion obstruct the freedom of al votes, notwithstan<g ref="char:EOLhyphen"/>ding contrary to the Armies Remonstrance and pro<g ref="char:EOLhyphen"/>test, and the Kingdoms expectation of its pursuance, those Intruders are stil permitted to vote as Members; we therefore humbly conceiving that the policy of those intruders stil prevails to the danger of the Parlia<g ref="char:EOLhyphen"/>ment and Army, as appears by their late Ordinance on <hi>friday</hi> last, wherein they not only declar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d against the Army, by acknowledging those usurpers to be the two Houses of Parliament, but also have laid the founda<g ref="char:EOLhyphen"/>tion of a dangerous deltaory way of proceeding against all the fomentors of a new war, and likewise conceiving that the Armies faithfulness to God and the Kingdom, before whom they have protested, and their honor and Reputation engageth them not to permit those usurpers any longer to sit in Parliament, we thought our selves obliged to represent unto your Excellency our appre<g ref="char:EOLhyphen"/>hensions of this engagement of the whole Army, to re<g ref="char:EOLhyphen"/>strain all those persons from sitting any longer in Parli<g ref="char:EOLhyphen"/>ament, as Judges of those things wherein they have made themselves parties, and we do humbly submit un<g ref="char:EOLhyphen"/>to your Excellencies Consideration these ensuing Reasons for the Armies immediate fulfilling their pro<g ref="char:EOLhyphen"/>testation to that purpose.</p>
+            <list>
+               <item>First, the Army being engaged to remain near Lon<g ref="char:EOLhyphen"/>don until the Parliament be settled in its ful freedom,
+<pb n="5" facs="tcp:160479:3"/> and all disturbers of their just proceedings removed, wil by their long continuance in these quarters, if any de<g ref="char:EOLhyphen"/>lays in the expulsion of those intruders very much im<g ref="char:EOLhyphen"/>poverish the Adjacent parts to London, which wil con<g ref="char:EOLhyphen"/>sequently straighten the City in its provisions to the hazard of dangerous discontents.</item>
+               <item>2. Much time is already lost, to the great damage of all the Kingdom, through the continuance of those In<g ref="char:EOLhyphen"/>cendiarys in the Houses.</item>
+               <item>3. Those usurpers having already contracted the guilt of fomenting a new war, are necessarily engaged to obstruct all proceedings which tend to the settlement of the Kingdoms peace, whereby the service and relief of <hi>Ireland</hi> also retarded.</item>
+               <item>4. The permission of those Incendiaries to sit in the Houses, may possibly give them opportunity to find a time to over vote the Parliament, and thereby stamp the image of Parliamentary Authority upon their own bloody desig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</item>
+               <item>5. The doting of those in the Houses, who are decla<g ref="char:EOLhyphen"/>red to be under an incapassity of sitting there, may possi<g ref="char:EOLhyphen"/>bly make the validity of all Votes, Orders and Ordinan<g ref="char:EOLhyphen"/>ces doubtful, that either are or shal be past during their sitting.</item>
+            </list>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:160479:4"/>
+            <head>A second Paper delivered by the AGITATORS of the ARMY to his Excellency Sir THOMAS FAIRFAX.</head>
+            <opener>
+               <salute>May it please your Excellency,</salute>
+            </opener>
+            <p>WHereas upon the 23 of August last, the Conscience of our duty to God and the Kingdom to prosecute our Pro<g ref="char:EOLhyphen"/>testation constrained us to declare our sence of the inviolable Ingagement of the Army, im<g ref="char:EOLhyphen"/>mediately to restrain those late usurpers of Par<g ref="char:EOLhyphen"/>liamentary power from sitting in Parliament, to obstruct all proceedings tending to the Kingdomes peace: and notwithstanding we have waited with much patience, expecting that the Parliaments zeal to the publick good would have made those Intruders &amp; Designers of mischief a burden so intollerable to their spirits, that they would rather have called for for the Armies assistance to eject them, then to have permitted them to sit there; yet all our
+<pb n="7" facs="tcp:160479:4"/> expectations are hitherto frustrate, and no en<g ref="char:EOLhyphen"/>deavours to that end are visible, we therefore in faithfulness to our principles and in a deep sense of the blood and confusion that threatens the Nation by reason of the delays of remo<g ref="char:EOLhyphen"/>ving ehe peoples burdens, and clearing and se<g ref="char:EOLhyphen"/>curing their Rights and Freedoms, which pro<g ref="char:EOLhyphen"/>ceeds from those Incendiaries sitting in Parlia<g ref="char:EOLhyphen"/>ment, cannot but humbly represent once more to your Excellency.</p>
+            <p>That we are weary of waiting and that the peoples growing miseries and distresses presseth us not to forbear any longer to use the utmost of our endeavours to make our Protestation real and effectual in restraining all those Usur<g ref="char:EOLhyphen"/>pers and Incendiaries from sitting in Parliament in case they should not before Saturday next be removed, that then those retarders &amp; obstructors of the Freedom of all Parliamentary actings, being expell'd from the House; that wicked design of our enemies to make the Army bur<g ref="char:EOLhyphen"/>densome to the Nation by inforcing them to take free-quarter through want of pay might
+<pb n="8" facs="tcp:160479:5"/> be crushed, and the Parliament might pr<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> speedily to settle the Kingdoms Peace.</p>
+            <closer>
+               <dateline>
+                  <date>SEPT. 2.</date>
+               </dateline>
+               <signed>Which is the continued <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of us whose names are subsc<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <list>
+                     <item>Jo. Renolds</item>
+                     <item>Fran. Allen</item>
+                     <item>Wil. Rainsborow</item>
+                     <item>Jo. Willoughby</item>
+                     <item>Geo. Joyce</item>
+                     <item>Fran. White</item>
+                     <item>Edw. Vaughan</item>
+                     <item>Nath. Foxgill</item>
+                     <item>Jo. Dober</item>
+                     <item>John Wells</item>
+                     <item>John Wilson</item>
+                     <item>J. Blackmore</item>
+                     <item>Tobias Bridge</item>
+                     <item>Wil. Ioans</item>
+                     <item>Tho. Sheapard</item>
+                     <item>Nat. Vnderwood</item>
+                     <item>Io. Wood</item>
+                     <item>Steven Combe</item>
+                     <item>Nich. Rawlins</item>
+                     <item>Rich. Nixon</item>
+                     <item>Tho. Robinson</item>
+                     <item>Edw. Sexby</item>
+                     <item>Timo. Thornbrough</item>
+                     <item>Rich. Johnson</item>
+                     <item>Henry Githings</item>
+                     <item>Rich. Grant</item>
+                     <item>Wil. Pryor</item>
+                     <item>Edw. Twigg</item>
+                     <item>Edw. Orpin</item>
+                     <item>Wil. Knolles</item>
+                     <item>Jo. Tayler</item>
+                     <item>Wil. Wilkinson</item>
+                     <item>Geo. Stenson</item>
+                     <item>Rich. Flower</item>
+                     <item>Rich. Thomas</item>
+                     <item>Edm. Garne</item>
+                     <item>Rich. Creed</item>
+                     <item>Tho. Michel.</item>
+                     <item>Io. Radman</item>
+                     <item>Iacob Summers</item>
+                     <item>Bart. Willock.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
